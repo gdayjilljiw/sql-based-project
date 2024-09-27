@@ -1,1 +1,1 @@
-# sql-based-project
+# sql-and-nlp-based-project
