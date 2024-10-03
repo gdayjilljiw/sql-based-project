@@ -12,6 +12,7 @@
   - monthly sales and profits of store
   - year-on-year Growth of Sales and Profits
   - customer segmentation: RFM analysis
+  - etc.
 - visualised the result using matplotlib, seaborn, plotly
 - wordcloud for product names
 
